@@ -1,0 +1,49 @@
+h2, h4 {
+    text-align: center;
+    color: #60646D;
+    font-family: Verdana;
+}
+h1 {
+    text-align: center;
+    font-size: 15px;
+    color: #c0392b;
+    font-family: Verdana;
+}
+p {
+    text-align: center;
+    font-size: 15px;
+    color: #c0392b;
+    font-family: Verdana;
+}
+#pb1 .s, .w { 
+    background: #60646D; 
+}
+#pb2 .s, .w { 
+    background: #A2D9CE;
+}
+.d { 
+    background-image: url(fire.jpg);
+    background-size: cover;
+}
+.m { 
+    background: #45B39D;
+}
+#pb1 div, #pb2 div { 
+    width: 20px; 
+    height: 20px; 
+    float: left;
+    outline: 1px groove #45B39D;
+}
+#pb1, #pb2 { 
+    width: 200px; 
+    height: 200px; 
+    float: center;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.end {
+    text-align: center;
+    color: #c0392b;
+    font-family: Verdana;
+}
